@@ -1,17 +1,16 @@
-![BrightCoders Logo](img/logo.png)
-
 # Introducción a React Native
 
-> [Antes de iniciar leer las instrucciones](./instructions.md)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Description
 
-Things you may want to cover:
+Este proyecto es una introducción práctica al framework de desarrollo móvil React Native. Diseñado para facilitar a los desarrolladores el aprendizaje y la implementación de las funcionalidades básicas de React Native.
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+## Installation
+
+Para clonar el repositorio, usa el siguiente comando:
